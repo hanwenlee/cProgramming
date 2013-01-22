@@ -1,0 +1,3 @@
+21:16:53 **** Clean-only build of configuration Default for project 01_average ****
+make clean 
+rm -f average *.o
