@@ -1,0 +1,6 @@
+18:59:01 **** Clean-only build of configuration Default for project 04_deal ****
+make clean 
+rm -f deal.o deal
+
+18:59:01 Build Finished (took 61ms)
+

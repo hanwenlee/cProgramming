@@ -1,0 +1,6 @@
+18:47:33 **** Clean-only build of configuration Default for project 01_reverse ****
+make clean 
+rm -f reverse.o reverse
+
+18:47:33 Build Finished (took 58ms)
+
